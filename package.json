@@ -12,6 +12,8 @@
   "license": "MIT",
   "author": "Sanity <hello@sanity.io>",
   "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.d.ts",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
